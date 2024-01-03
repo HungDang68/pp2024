@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name:Đặng Tuấn Hưng
+* Student Name: Đặng Tuấn Hưng
 * Student ID: BA12-082
 
