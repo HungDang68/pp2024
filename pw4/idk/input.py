@@ -13,3 +13,5 @@ def int_input(string):
       except Exception as x:
             print("Try again")
 
+if __name__=='__main__':
+    print({__name__})

@@ -18,3 +18,6 @@ class classes():
     
     def get_grade(self,NUM):
         return np.dot(self.__students[NUM],self.__credit)
+
+if __name__=='__main__':
+    print({__name__})

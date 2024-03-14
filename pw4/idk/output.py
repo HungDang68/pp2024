@@ -17,4 +17,5 @@ def sth(stdscr):
     stdscr.refresh()
     stdscr.getch()
 
-
+if __name__=='__main__':
+    print({__name__})

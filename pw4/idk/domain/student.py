@@ -16,3 +16,6 @@ class student:
         
     def get_grade(self):
         return self.__gpa
+
+if __name__=='__main__':
+    print({__name__})

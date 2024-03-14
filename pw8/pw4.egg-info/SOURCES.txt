@@ -1,0 +1,11 @@
+setup.py
+idk/__init__.py
+idk/input.py
+idk/output.py
+idk/domain/__init__.py
+idk/domain/classes.py
+idk/domain/student.py
+pw4.egg-info/PKG-INFO
+pw4.egg-info/SOURCES.txt
+pw4.egg-info/dependency_links.txt
+pw4.egg-info/top_level.txt
